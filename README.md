@@ -11,3 +11,5 @@ and Schwefel and composition functions both with and without
 coordinate rotation. The results demonstrate good performance of
 the CLPSO in solving multimodal problems when compared with
 eight other recent variants of the PSO.
+
+ ![image](CLPSO.png)
